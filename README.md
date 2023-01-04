@@ -1,2 +1,2 @@
 # Bank-System-GUI
-Bank System Created using python and GUI using tkinter
+This system provides user with options to login, create account, etc.
